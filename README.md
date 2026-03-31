@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Nuxt.Js<br>🌱 I’m currently learning Go Lang<br>🌍  I'm based in Ethiopia<br>✉️  You can contact me at aklilemente72gmail.com
+👯 I’m looking to collaborate on Nuxt.Js<br>🌱 I’m currently learning Go Lang✉️ <br> You can contact me at aklilemente72gmail.com<br>
 
 
 ## 🌐 Socials:
